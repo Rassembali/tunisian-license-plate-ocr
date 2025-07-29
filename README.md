@@ -53,10 +53,10 @@ tunisian-license-plate-ocr/
 ## 🔍 Sample Results
 
 ### 📌 Example Input
-<img src="tunisian-license-plate-ocr/outputs/confusion_matrix.png" alt="Example car input" width="400"/>
+<img src="tunisian-license-plate-ocr/outputs/exmaple car.jpg" alt="Example car input" width="400"/>
 
 ### 🧠 Digit + Word Detection – YOLOv8
-<img src="outputs\confusion_matrix.png" alt="Confusion matrix of digit detector" width="500"/>
+<img src="tunisian-license-plate-ocr/outputs/confusion_matrix.png" alt="Confusion matrix of digit detector" width="500"/>
 
 ### 🔍 Final Detection Results (Plate + Digits)
-<img src="outputs/resulats.png" alt="Full detection results" width="500"/>
+<img src="tunisian-license-plate-ocr/outputs/resulats.png" alt="Full detection results" width="500"/>
